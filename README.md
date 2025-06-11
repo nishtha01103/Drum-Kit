@@ -15,12 +15,12 @@ Press the on-screen buttons or hit the matching keys on your keyboard to trigger
 | **Fully client-side** | No build tools or frameworks required—just open `index.html` |
 
 ---
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML 5 – semantic markup
 CSS 3 – basic styling & keyframe animation
 Vanilla JS – DOM API, addEventListener, Audio objects
 
-##✨ What I Learned
+## ✨ What I Learned
 Dynamically adding & removing CSS classes for animation
 Handling both click and keydown events gracefully
 Preloading and playing short audio clips without delay
