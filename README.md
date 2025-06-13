@@ -3,6 +3,8 @@
 A lightweight, beginner-friendly **drum kit web app** built with **HTML, CSS, and vanilla JavaScript**.  
 Press the on-screen buttons or hit the matching keys on your keyboard to trigger crisp drum sounds and snappy animations. This project is part of my hands-on journey to master DOM manipulation, event handling, and working with the Web Audio API.
 
+https://nishtha01103.github.io/Drum-Kit/
+
 ---
 
 ## 🎯 Features
